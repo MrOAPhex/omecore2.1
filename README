@@ -1,0 +1,15 @@
+Omecore2.1 user guide!
+
+The omecore2.1 is a 4-bit hexadecimal computer that me and pavlepuchika developed. 
+
+Specs:
+8 words of ram, whitch 3 are memory mapped (mm in book)
+15 addresses "Bytes" of rom
+a 7s clock (will be changed in future updates
+2 registers for the ocore2.2 alu and 1 for holding the bus value.
+some additional instructions to the ocore2.2
+
+The ISA and the memory mappings can be found in the book *next to the omecore controls*
+i will keep a changelog of future updates.
+
+in the github repo there is also programs for the omecore2.1 as well as the .schems for the ocore2.2
